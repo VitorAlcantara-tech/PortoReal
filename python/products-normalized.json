@@ -1,0 +1,182 @@
+[
+  {
+    "id": "Pimenta Preta Em Grão",
+    "name": "Pimenta Preta Em Grão",
+    "suppliers": [
+      {
+        "name": "Gramore",
+        "location": "Online",
+        "price": 48.95,
+        "url": "https://pedidos.gramore.com.br/precos.php"
+      },
+      {
+        "name": "Iberica",
+        "location": "Online",
+        "price": 59.4,
+        "url": "https://ibericacomercio.com/tabela-precos-produtos-naturais/"
+      }
+    ]
+  },
+  {
+    "id": "Páprica Defumada",
+    "name": "Páprica Defumada",
+    "suppliers": [
+      {
+        "name": "Gramore",
+        "location": "Online",
+        "price": 12.6,
+        "url": "https://pedidos.gramore.com.br/precos.php"
+      },
+      {
+        "name": "Iberica",
+        "location": "Online",
+        "price": 11.33,
+        "url": "https://ibericacomercio.com/tabela-precos-produtos-naturais/"
+      }
+    ]
+  },
+  {
+    "id": "Erva Doce",
+    "name": "Erva Doce",
+    "suppliers": [
+      {
+        "name": "Gramore",
+        "location": "Online",
+        "price": 18.15,
+        "url": "https://pedidos.gramore.com.br/precos.php"
+      },
+      {
+        "name": "Iberica",
+        "location": "Online",
+        "price": 22.52,
+        "url": "https://ibericacomercio.com/tabela-precos-produtos-naturais/"
+      }
+    ]
+  },
+  {
+    "id": "Canjica Branca",
+    "name": "Canjica Branca",
+    "suppliers": [
+      {
+        "name": "Gramore",
+        "location": "Online",
+        "price": 4.07,
+        "url": "https://pedidos.gramore.com.br/precos.php"
+      },
+      {
+        "name": "Iberica",
+        "location": "Online",
+        "price": 6.54,
+        "url": "https://ibericacomercio.com/tabela-precos-produtos-naturais/"
+      }
+    ]
+  },
+  {
+    "id": "Catuaba em Pó",
+    "name": "Catuaba em Pó",
+    "suppliers": [
+      {
+        "name": "Gramore",
+        "location": "Online",
+        "price": 12.6,
+        "url": "https://pedidos.gramore.com.br/precos.php"
+      },
+      {
+        "name": "Iberica",
+        "location": "Online",
+        "price": 16.54,
+        "url": "https://ibericacomercio.com/tabela-precos-produtos-naturais/"
+      }
+    ]
+  },
+  {
+    "id": "Colorau",
+    "name": "Colorau",
+    "suppliers": [
+      {
+        "name": "Gramore",
+        "location": "Online",
+        "price": 5.61,
+        "url": "https://pedidos.gramore.com.br/precos.php"
+      },
+      {
+        "name": "Iberica",
+        "location": "Online",
+        "price": 8.3,
+        "url": "https://ibericacomercio.com/tabela-precos-produtos-naturais/"
+      }
+    ]
+  },
+  {
+    "id": "Farinha de Uva",
+    "name": "Farinha de Uva",
+    "suppliers": [
+      {
+        "name": "Gramore",
+        "location": "Online",
+        "price": 25.51,
+        "url": "https://pedidos.gramore.com.br/precos.php"
+      },
+      {
+        "name": "Iberica",
+        "location": "Online",
+        "price": 24.76,
+        "url": "https://ibericacomercio.com/tabela-precos-produtos-naturais/"
+      }
+    ]
+  },
+  {
+    "id": "Guaraná em Pó",
+    "name": "Guaraná em Pó",
+    "suppliers": [
+      {
+        "name": "Gramore",
+        "location": "Online",
+        "price": 22.05,
+        "url": "https://pedidos.gramore.com.br/precos.php"
+      },
+      {
+        "name": "Iberica",
+        "location": "Online",
+        "price": 21.46,
+        "url": "https://ibericacomercio.com/tabela-precos-produtos-naturais/"
+      }
+    ]
+  },
+  {
+    "id": "Farinha de Linhaça Marrom",
+    "name": "Farinha de Linhaça Marrom",
+    "suppliers": [
+      {
+        "name": "Gramore",
+        "location": "Online",
+        "price": 6.82,
+        "url": "https://pedidos.gramore.com.br/precos.php"
+      },
+      {
+        "name": "Iberica",
+        "location": "Online",
+        "price": 8.51,
+        "url": "https://ibericacomercio.com/tabela-precos-produtos-naturais/"
+      }
+    ]
+  },
+  {
+    "id": "Feijão Preto",
+    "name": "Feijão Preto",
+    "suppliers": [
+      {
+        "name": "Gramore",
+        "location": "Online",
+        "price": 5.47,
+        "url": "https://pedidos.gramore.com.br/precos.php"
+      },
+      {
+        "name": "Iberica",
+        "location": "Online",
+        "price": 7.29,
+        "url": "https://ibericacomercio.com/tabela-precos-produtos-naturais/"
+      }
+    ]
+  }
+]

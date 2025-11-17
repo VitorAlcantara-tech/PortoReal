@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "Pimenta Preta em Grão 05KG",
+    "supplier": "Gramore",
+    "price": 48.95
+  },
+  {
+    "id": "2",
+    "name": "Páprica Defumada 10KG",
+    "supplier": "Gramore",
+    "price": 12.6
+  },
+  {
+    "id": "3",
+    "name": "Erva Doce (SEM ICMS) 05KG",
+    "supplier": "Gramore",
+    "price": 18.15
+  },
+  {
+    "id": "4",
+    "name": "Canjica Branca 15KG",
+    "supplier": "Gramore",
+    "price": 4.07
+  },
+  {
+    "id": "5",
+    "name": "Catuaba em Pó 10KG",
+    "supplier": "Gramore",
+    "price": 12.6
+  },
+  {
+    "id": "6",
+    "name": "Colorau 10KG",
+    "supplier": "Gramore",
+    "price": 5.61
+  },
+  {
+    "id": "7",
+    "name": "Farinha de Uva 05KG",
+    "supplier": "Gramore",
+    "price": 25.51
+  },
+  {
+    "id": "8",
+    "name": "Guaraná em Pó 10KG",
+    "supplier": "Gramore",
+    "price": 22.05
+  },
+  {
+    "id": "9",
+    "name": "Farinha de Linhaça Marrom Crua NACIONAL 05KG",
+    "supplier": "Gramore",
+    "price": 6.82
+  },
+  {
+    "id": "10",
+    "name": "Feijão Preto Nacional Brilhado 05KG",
+    "supplier": "Gramore",
+    "price": 5.47
+  },
+  {
+    "id": "1",
+    "name": "PIMENTA PRETA EM GRÃO (MEIA-CAIXA)",
+    "supplier": "Iberica",
+    "price": 59.4
+  },
+  {
+    "id": "2",
+    "name": "PÁPRICA DEFUMADA (CAIXA)",
+    "supplier": "Iberica",
+    "price": 11.33
+  },
+  {
+    "id": "3",
+    "name": "ERVA DOCE (QUILO)",
+    "supplier": "Iberica",
+    "price": 22.52
+  },
+  {
+    "id": "4",
+    "name": "CANJICA BRANCA (QUILO)",
+    "supplier": "Iberica",
+    "price": 6.54
+  },
+  {
+    "id": "5",
+    "name": "CATUABA EM PÓ (QUILO)",
+    "supplier": "Iberica",
+    "price": 16.54
+  },
+  {
+    "id": "6",
+    "name": "COLORAU PARAÍBA (QUILO)",
+    "supplier": "Iberica",
+    "price": 8.3
+  },
+  {
+    "id": "7",
+    "name": "FARINHA DE UVA (MEIA-CAIXA)",
+    "supplier": "Iberica",
+    "price": 24.76
+  },
+  {
+    "id": "8",
+    "name": "GUARANÁ EM PÓ (CAIXA)",
+    "supplier": "Iberica",
+    "price": 21.46
+  },
+  {
+    "id": "9",
+    "name": "FARINHA DE LINHAÇA MARROM (MEIA-CAIXA)",
+    "supplier": "Iberica",
+    "price": 8.51
+  },
+  {
+    "id": "10",
+    "name": "FEIJÃO PRETO (MEIA-CAIXA)",
+    "supplier": "Iberica",
+    "price": 7.29
+  }
+]
