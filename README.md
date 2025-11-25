@@ -35,6 +35,7 @@ O sistema oferece **login**, **dashboard**, **visualização de produtos** e **c
 
 ## 🛠️ Tecnologias Utilizadas
 
+- **Next.js**
 - **React**
 - **TypeScript**
 - **TailwindCSS**
