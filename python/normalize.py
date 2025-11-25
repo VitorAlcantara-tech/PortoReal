@@ -4,7 +4,7 @@ import re
 
 MAPA_NORMALIZACAO = {
     # Pimentas
-     "pimenta preta em grão 05kg": "Pimenta Preta Em Grão",
+    "pimenta preta em grão 05kg": "Pimenta Preta Em Grão",
     "pimenta preta em grão (meia-caixa)": "Pimenta Preta Em Grão",
 
     # Páprica
